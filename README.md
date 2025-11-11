@@ -1,0 +1,2 @@
+# FinSight
+🚀 Built FinSight API using FastAPI &amp; Swagger UI — an interactive backend for financial analytics. Designed RESTful endpoints for secure user authentication and management, documented with OpenAPI 3.1. Tested locally via Swagger for real-time API interaction and validation.
